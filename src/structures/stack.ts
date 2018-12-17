@@ -1,8 +1,5 @@
-class Stack {
-    stack: any[]
-    constrcutor(stack: any[]) {
-        this.stack = stack
-    }
+export class Stack {
+    stack: any[] = []
     // push an element into the peek of stack
     push(element: any) {
         this.stack.push(element)
