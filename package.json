@@ -1,0 +1,22 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "study about algrithms and data types with implementations in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iniaks/algorithms.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "qianchen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iniaks/algorithms/issues"
+  },
+  "homepage": "https://github.com/iniaks/algorithms#readme"
+}
